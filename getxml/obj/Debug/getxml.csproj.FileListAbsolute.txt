@@ -1,0 +1,7 @@
+E:\项目\test\getxml\getxml\bin\Debug\getxml.exe.config
+E:\项目\test\getxml\getxml\obj\Debug\getxml.csproj.ResolveComReference.cache
+E:\项目\test\getxml\getxml\bin\Debug\getxml.exe
+E:\项目\test\getxml\getxml\bin\Debug\getxml.pdb
+E:\项目\test\getxml\getxml\obj\Debug\getxml.csprojResolveAssemblyReference.cache
+E:\项目\test\getxml\getxml\obj\Debug\getxml.exe
+E:\项目\test\getxml\getxml\obj\Debug\getxml.pdb
